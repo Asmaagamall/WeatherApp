@@ -12,6 +12,7 @@ A simple weather app built with Flutter and Provider state management. This app 
 - Clean and intuitive user interface.
 
 ## Screenshots
+![photo_2023-06-12_13-33-02](https://github.com/Asmaagamall/WeatherApp/assets/60519926/ae8075f6-8b76-469f-9427-0031f5ffa097)
 
-![](photo_2023-06-12_13-33-02.jpg)
-![](photo_2023-06-12_13-33-06.jpg)
+![photo_2023-06-12_13-33-06](https://github.com/Asmaagamall/WeatherApp/assets/60519926/5fce7af5-0b38-4cd7-8c5e-6358aeb4fdd1)
+
